@@ -58,6 +58,6 @@ Look for the section that contains `"Intro Screen"` in the `texture.ini` file an
 #	Portable 2nd G = Bar/P2G.png
 #========================================
 000000007c963d08bcffe946 = Bar/FUC.png # Default (enabled)
-#000000007c963d08bcffe946 = Bar/P2G.png
+#000000007c963d08bcffe946 = Bar/P2G.png # Alternative (original version - ULJM05500)
 ```
 
