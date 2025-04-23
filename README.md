@@ -22,4 +22,8 @@ git clone https://github.com/YOUR_USER/mhp2g-texture-pack.git
 
 ## 🎨 Options and Extras
 ---
-![Intro-Screen](https://github.com/user-attachments/assets/92e17a70-2a25-41e4-b008-8cffd3793c7d)
+![INTRO_FUC](https://github.com/user-attachments/assets/3f51664f-812d-4920-aad3-17077dd1bca2)
+
+![INTRO_P2G](https://github.com/user-attachments/assets/d87707d7-670f-4665-827f-3b81d47bf5c2)
+
+
