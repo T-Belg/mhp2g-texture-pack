@@ -138,7 +138,7 @@ See the variations:
 
 <p align="center">
 ***SBarNX (This is actual default)***
-![SBarNX](https://github.com/user-attachments/assets/72924858-728f-4e7d-b59d-aaf6d4645e42)
+  <img src="https://github.com/user-attachments/assets/72924858-728f-4e7d-b59d-aaf6d4645e42" width="300">
 </p>
 ***SBarNX2***
 
