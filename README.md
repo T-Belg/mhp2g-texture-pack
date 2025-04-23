@@ -155,4 +155,11 @@ See the variations:
 <p align="center"><img src="https://github.com/user-attachments/assets/69a360fd-d340-4785-af00-632e37fe1e74" width="300"></p>
 
 
+---
+
+🎮 **Enjoying the pack?**  
+If this project gave your Monster Hunter experience a fresh look, consider dropping a star ⭐ here on GitHub — it really helps!  
+Got suggestions, found a bug, or just wanna chat about the game? Open an *issue* or give me a shout!
+
+Happy hunting, hunter! 🐲🪓
 
