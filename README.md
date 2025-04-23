@@ -22,10 +22,28 @@ The texture pack is available in the [**Releases**](../../releases) section of t
 
 ✨**Done! The custom textures will be active in the game.** 😄🎮
 
-## 🎨 Options and Extras
+### 🎨 Options and Extras
 
-![INTRO_FUC](https://github.com/user-attachments/assets/3f51664f-812d-4920-aad3-17077dd1bca2)
+Feel free to modify the `texture.ini` file as you wish — but there are some specific options/changes you can make to truly make it your own.
 
-![INTRO_P2G](https://github.com/user-attachments/assets/d87707d7-670f-4665-827f-3b81d47bf5c2)
+---
+
+#### 1. Introduction screen
+
+There are two available options for the intro screen:
+
+- **Default (enabled):**  
+  **Monster Hunter Freedom Unite Complete**
+
+  ![INTRO_FUC](https://github.com/user-attachments/assets/3f51664f-812d-4920-aad3-17077dd1bca2)
+
+- **Alternative (original version - ULJM05500):**  
+  **Monster Hunter Portable 2nd G**
+
+  ![INTRO_P2G](https://github.com/user-attachments/assets/d87707d7-670f-4665-827f-3b81d47bf5c2)
+
+
+
+
 
 
