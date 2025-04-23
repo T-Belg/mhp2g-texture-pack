@@ -14,6 +14,8 @@ The texture pack is available in the [**Releases**](../../releases) section of t
 
 > ⚠️ Do not use the "Code > Download ZIP" button, as it does not include the large files hosted in the Releases.
 
+
+
 ## 🧾 Installation
 
 1. Extract the file: `ULJM05500.zip`.
@@ -21,6 +23,8 @@ The texture pack is available in the [**Releases**](../../releases) section of t
 3. Open **PPSSPP**, go to `Settings > Tools > Developer Tools > Replace Textures ✅`.
 
 ✨**Done! The custom textures will be active in the game.** 😄🎮
+
+
 
 ### 🎨 Options and Extras
 
