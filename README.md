@@ -64,7 +64,7 @@ Look for the section that contains `"Intro Screen"` in the `texture.ini` file an
 
 #### 2. Resource Map
 
-By default, the game map does not provide any help regarding the items you can pick up. Everything needs to be explored and, in a way, memorized 😅
+By default, the game map does not provide any help regarding the items you can pick up. Everything needs to be explored and, in a way, memorized 😅␣␣  
 To enable the resource map, within the `texture.ini` file, look for the `"Optional Resource Map"` section and change the variable path as follows:
 
 ```ini
