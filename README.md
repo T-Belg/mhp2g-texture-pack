@@ -19,3 +19,6 @@ git clone https://github.com/YOUR_USER/mhp2g-texture-pack.git
 4. In PPSSPP, go to `Settings > Tools > Developer Tools > Replace Textures ✅`.
 
 ✨**Done! The custom textures will be active in the game.** 😄🎮
+
+## 🎨 Options and Extras
+---
