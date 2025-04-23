@@ -103,18 +103,34 @@ To enable the resource map, within the `texture.ini` file, look for the `"Option
 ```
 ***
 
+#### 3. Buttons 
 
-| SBarNX - Default Enabled   |        SBarNX2       |        SBarN       |
-|----------------------------|----------------------|--------------------|
-| ![SBarNX](https://github.com/user-attachments/assets/89f18172-1756-465b-9fb5-95560e1b13a9)
-                           | ![SBarNX2](https://github.com/user-attachments/assets/d595516e-97d7-4917-8e34-821c7902c3d4)
-                     | ![SBarN](https://github.com/user-attachments/assets/65ef1409-f227-4989-9fe9-1989aaa9bf50)
-                   | 
-|          SBarNPS           |       SBarNPS2       |      SBarNPS3      |
-|----------------------------|----------------------|--------------------|
-| ![SBarNPS](https://github.com/user-attachments/assets/7dac6923-8ab2-4d38-92b5-5f0e39d7c897)
-                           | ![SBarNPS2](https://github.com/user-attachments/assets/87d949aa-20e4-43ad-b74d-f9efd5feff6b)
-                     | ![SBarNPS3](https://github.com/user-attachments/assets/8ee30b4c-3cfa-4beb-b1f3-3ef43df190b5)
-                   |
+This is one of the parts I like the most, changing the game's buttons.
 
+Again, all editing is done through the `texture.ini file`, so open it and look for the `"Optional UI Buttons"` section. Now change the path of the variables to the way you like the most.
+
+```ini
+#=================================================================================================
+#                                               Optional UI Buttons
+#
+# 		To change the layout of the UI buttons, simply change the path below, for example:
+# 			"variable = Bar/SBar3.png" to "variable = Bar/SBarNPS.png"
+#
+#
+#		Where: 
+#		SBarNPS = New bar with PlayStation buttons layout
+#		SBarNX = New bar with Xbox buttons layout
+#		SBarNX2 = New bar with Xbox buttons layout variation
+#		SBarN = New bar
+#		SBarNPS2 = Is default bar with PlayStation modern look variation
+#		SBarNPS3 = Is default bar with PlayStation modern look variation
+#
+#		
+#=================================================================================================
+00000000af1e2872ddeab148 = Bar/SBarNX.png
+09156ba0e580c2a8cc4477b1 = Bar/SBarNX.png
+09156ba0e580c2a8e299e153 = Bar/SBarNX.png
+00000000af1e2872ddeab148 = Bar/SBarNX.png
+00000000af1e2872ddeab148 = Bar/SBarNX.png
+```
 
