@@ -46,7 +46,6 @@ There are two available options for the intro screen:
 
   ![INTRO_P2G](https://github.com/user-attachments/assets/d87707d7-670f-4665-827f-3b81d47bf5c2)
 
-***
 
 Look for the section that contains `"Intro Screen"` in the `texture.ini` file and remove the `#` to the following variable to match your preferred option:
 
@@ -60,7 +59,7 @@ Look for the section that contains `"Intro Screen"` in the `texture.ini` file an
 000000007c963d08bcffe946 = Bar/FUC.png # Default (enabled)
 #000000007c963d08bcffe946 = Bar/P2G.png # Alternative (original version - ULJM05500)
 ```
-
+***
 
 #### 2. Resource Map
 
@@ -102,3 +101,7 @@ To enable the resource map, within the `texture.ini` file, look for the `"Option
 0419c2006b1d306c6ef914b7 = ResourceMap/0419c2006b1d306c6ef914b7.png
 0419c2006b1d306c8020fb09 = ResourceMap/0419c2006b1d306c8020fb09.png
 ```
+***
+
+
+
