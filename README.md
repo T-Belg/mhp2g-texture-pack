@@ -138,8 +138,8 @@ See the variations:
 
 <p align="center">
 ***SBarNX (This is actual default)***
-![SBarNX](https://github.com/user-attachments/assets/81c0dea5-40ae-4eca-886f-c0c9c3d3ae90)
-
+![SBarNX](https://github.com/user-attachments/assets/72924858-728f-4e7d-b59d-aaf6d4645e42)
+</p>
 ***SBarNX2***
 
 ![SBarNX2](https://github.com/user-attachments/assets/28b8dd03-00fb-477a-86bf-5ab03c5da94f)
@@ -159,7 +159,6 @@ See the variations:
 ***SBarNPS3***
 
 ![Novo Projeto(1)](https://github.com/user-attachments/assets/69a360fd-d340-4785-af00-632e37fe1e74)
-</p>
 
 
 
