@@ -135,9 +135,8 @@ Again, all editing is done through the `texture.ini file`, so open it and look f
 ```
 
 See the variations:
-
+</p>
 <p align="center">
-***SBarNX (This is actual default)***
   <img src="https://github.com/user-attachments/assets/72924858-728f-4e7d-b59d-aaf6d4645e42" width="300">
 </p>
 ***SBarNX2***
