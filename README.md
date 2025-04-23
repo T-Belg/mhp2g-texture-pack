@@ -9,3 +9,13 @@ This project contains a custom texture pack for the game **Monster Hunter Portab
 Click on the **Code > Download ZIP** tab or clone with:
 ```bash
 git clone https://github.com/YOUR_USER/mhp2g-texture-pack.git
+
+
+## 🧾 Installation
+
+1. Open **PPSSPP**.
+2. Extract the file: `ULJM05500.zip`.
+3. Copy or move the folder: `ULJM05500` to: `Memstick/PSP/TEXTURES`.
+4. In PPSSPP, go to `Settings > Tools > Developer Tools > Replace Textures ✅`.
+
+✨**Done! The custom textures will be active in the game.** 😄🎮
