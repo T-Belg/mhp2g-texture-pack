@@ -135,6 +135,8 @@ Again, all editing is done through the `texture.ini file`, so open it and look f
 ```
 
 See the variations:
+
+<p align="center">
 ***SBarNX (This is actual default)***
 ![SBarNX](https://github.com/user-attachments/assets/81c0dea5-40ae-4eca-886f-c0c9c3d3ae90)
 
@@ -157,7 +159,7 @@ See the variations:
 ***SBarNPS3***
 
 ![Novo Projeto(1)](https://github.com/user-attachments/assets/69a360fd-d340-4785-af00-632e37fe1e74)
-
+</p>
 
 
 
