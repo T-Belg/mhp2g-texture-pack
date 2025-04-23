@@ -10,6 +10,9 @@ Custom Textures for Monster Hunter Freedom Unite Complete [FUC](https://fucomple
 This project contains a custom texture pack for the game **Monster Hunter Portable 2nd G - [FUC (Patched)](https://fucomplete.github.io/)**, compatible with the **PPSSPP** emulator.
 
 ## 📥 Download
+The texture pack is available in the [**Releases**](../../releases) section of the repository, due to its size (1.5GB).
+
+> ⚠️ Do not use the "Code > Download ZIP" button, as it does not include the large files hosted in the Releases.
 
 Click on the **Code > Download ZIP** tab or clone with:
 ```bash
