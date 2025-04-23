@@ -14,11 +14,6 @@ The texture pack is available in the [**Releases**](../../releases) section of t
 
 > ⚠️ Do not use the "Code > Download ZIP" button, as it does not include the large files hosted in the Releases.
 
-Click on the **Code > Download ZIP** tab or clone with:
-```bash
-git clone https://github.com/YOUR_USER/mhp2g-texture-pack.git
-```
-
 ## 🧾 Installation
 
 1. Extract the file: `ULJM05500.zip`.
