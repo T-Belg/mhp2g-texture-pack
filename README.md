@@ -48,9 +48,16 @@ There are two available options for the intro screen:
 
 ***
 
-Look for the section that contains `"Intro Screen"` in the `texture.ini` file and change the following variable to match your preferred option:
+Look for the section that contains `"Intro Screen"` in the `texture.ini` file and remove the `#` to the following variable to match your preferred option:
 
 ```ini
-000000007c963d08bcffe946 = Bar/P2G.png
+#========================================
+#		Intro Screen
+#
+#	Default = Bar/FUC.png
+#	Portable 2nd G = Bar/P2G.png
+#========================================
+000000007c963d08bcffe946 = Bar/FUC.png # Default (enabled)
+#000000007c963d08bcffe946 = Bar/P2G.png
 ```
 
