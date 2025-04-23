@@ -139,18 +139,24 @@ See the variations:
 ![SBarNX](https://github.com/user-attachments/assets/81c0dea5-40ae-4eca-886f-c0c9c3d3ae90)
 
 ***SBarNX2***
+
 ![SBarNX2](https://github.com/user-attachments/assets/28b8dd03-00fb-477a-86bf-5ab03c5da94f)
 
 ***SBarN***
+
 ![SBarN](https://github.com/user-attachments/assets/610cd32a-a9f2-4ffc-bc6a-b8f3bb7bb34e)
 
 ***SBarNPS***
+
 ![SBarNPS](https://github.com/user-attachments/assets/0ea6b6d8-1a6c-4d8e-88b6-7b1d5eaf5886)
 
 ***SBarNPS2***
+
 ![SBarNPS2](https://github.com/user-attachments/assets/e23cba21-5e0b-4c7a-b43e-c67dc1c879a8)
 
 ***SBarNPS3***
-![SBarNPS3](https://github.com/user-attachments/assets/cb5f4d0f-8180-4ecd-88d7-0f1a982c1f7f)
+
+![Novo Projeto](https://github.com/user-attachments/assets/e77c31db-582d-41ea-ba9a-e7c8a0290a6d)
+
 
 
