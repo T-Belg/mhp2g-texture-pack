@@ -136,40 +136,23 @@ Again, all editing is done through the `texture.ini file`, so open it and look f
 
 See the variations:
 
-***SBarN***
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/72924858-728f-4e7d-b59d-aaf6d4645e42" width="300">
-</p>
+<p align="center"><strong>SBarN</strong></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/72924858-728f-4e7d-b59d-aaf6d4645e42" width="300"></p>
 
-***SBarNX2***
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/28b8dd03-00fb-477a-86bf-5ab03c5da94f" width="300">
-</p>
+<p align="center"><strong>SBarNX2</strong></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/28b8dd03-00fb-477a-86bf-5ab03c5da94f" width="300"></p>
 
-***SBarN***
+<p align="center"><strong>SBarN</strong></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/610cd32a-a9f2-4ffc-bc6a-b8f3bb7bb34e" width="300"></p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/610cd32a-a9f2-4ffc-bc6a-b8f3bb7bb34e" width="300">
-</p>
+<p align="center"><strong>SBarNPS</strong></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/0ea6b6d8-1a6c-4d8e-88b6-7b1d5eaf5886" width="300"></p>
 
-***SBarNPS***
+<p align="center"><strong>SBarNPS2</strong></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/e23cba21-5e0b-4c7a-b43e-c67dc1c879a8" width="300"></p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/0ea6b6d8-1a6c-4d8e-88b6-7b1d5eaf5886" width="300">
-</p>
-
-***SBarNPS2***
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e23cba21-5e0b-4c7a-b43e-c67dc1c879a8" width="300">
-</p>
-
-***SBarNPS3***
-
-<p align="center">
- <p>SBarNPS3</p>
-  <img src="https://github.com/user-attachments/assets/69a360fd-d340-4785-af00-632e37fe1e74" width="300">
-</p>
+<p align="center"><strong>SBarNPS3</strong></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/69a360fd-d340-4785-af00-632e37fe1e74" width="300"></p>
 
 
 
