@@ -67,7 +67,10 @@ Look for the section that contains `"Intro Screen"` in the `texture.ini` file an
 By default, the game map does not provide any help regarding the items you can pick up. Everything needs to be explored and, in a way, memorized.
 
 The resource map is there to help you explore. Through it, you can find out what items appear in each area, saving you time and patience spent walking in circles 😅
-![2025-04-23_10-30](https://github.com/user-attachments/assets/e79c26a0-43ce-4939-92fb-c66308d01ccd)  sdsds  ![2025-04-23_10-36](https://github.com/user-attachments/assets/9af38fa4-fc7d-4317-8099-60e135ce205c)
+
+
+![2025-04-23_10-30](https://github.com/user-attachments/assets/e79c26a0-43ce-4939-92fb-c66308d01ccd)  sdsds  ![2025-04-23_10-36(1)](https://github.com/user-attachments/assets/0f0c42bb-4f8e-4b3e-942c-f97767b2123f)
+
 
 
 
