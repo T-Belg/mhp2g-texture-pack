@@ -61,3 +61,36 @@ Look for the section that contains `"Intro Screen"` in the `texture.ini` file an
 #000000007c963d08bcffe946 = Bar/P2G.png # Alternative (original version - ULJM05500)
 ```
 
+
+#### 2. Resource Map
+
+By default, the game map does not provide any help regarding the items you can pick up. Everything needs to be explored and, in a way, memorized 😅
+To enable the resource map, within the `texture.ini` file, look for the `"Optional Resource Map"` section and change the variable path as follows:
+
+```ini
+#==================================================================
+#                                               Optional Resource Map
+#
+#       For enable the resource map just change the path below, example:  
+#        "variable = DefaultMapHUD/..." for "variable = ResourceMap/..."
+#
+#
+#==================================================================
+0419c2004b3da8487bfa45cc = ResourceMap/0419c2004b3da8487bfa45cc.png
+0419c200688906efecd8bddf = ResourceMap/0419c200688906efecd8bddf.png
+0419c20063448d71ee89dfc3 = ResourceMap/0419c20063448d71ee89dfc3.png
+0419c20010382eac257f9c03 = ResourceMap/0419c20010382eac257f9c03.png
+0419c20010286fc6311b5f16 = ResourceMap/0419c20010286fc6311b5f16.png
+0419c20008032c5db408c2ad = ResourceMap/0419c20008032c5db408c2ad.png
+0419c20086e35b013e17a185 = ResourceMap/0419c20086e35b013e17a185.png
+0419c2008bce426fd6440a2f = ResourceMap/0419c2008bce426fd6440a2f.png
+0419c200fb2fd024cbd54ffb = ResourceMap/0419c200fb2fd024cbd54ffb.png
+0419c200bd81d98e48a98a7e = ResourceMap/0419c200bd81d98e48a98a7e.png
+0419c200ea98fcf415718085 = ResourceMap/0419c200ea98fcf415718085.png
+0419c200ce016a386a28cc7b = ResourceMap/0419c200ce016a386a28cc7b.png
+0419c200ce016a3830ba0418 = ResourceMap/0419c200ce016a3830ba0418.png
+0419c200d647f218988de085 = ResourceMap/0419c200d647f218988de085.png
+0419c200f426e25c17fa079f = ResourceMap/0419c200f426e25c17fa079f.png
+0419c2006b1d306c6ef914b7 = ResourceMap/0419c2006b1d306c6ef914b7.png
+0419c2006b1d306c8020fb09 = ResourceMap/0419c2006b1d306c8020fb09.png
+```
