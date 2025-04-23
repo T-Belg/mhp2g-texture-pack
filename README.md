@@ -167,6 +167,7 @@ See the variations:
 ***SBarNPS3***
 
 <p align="center">
+ <p>SBarNPS3</p>
   <img src="https://github.com/user-attachments/assets/69a360fd-d340-4785-af00-632e37fe1e74" width="300">
 </p>
 
