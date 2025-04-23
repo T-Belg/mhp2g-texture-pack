@@ -46,12 +46,11 @@ There are two available options for the intro screen:
 
   ![INTRO_P2G](https://github.com/user-attachments/assets/d87707d7-670f-4665-827f-3b81d47bf5c2)
 
----
+***
 
 Look for the section that contains `"Intro Screen"` in the `texture.ini` file and change the following variable to match your preferred option:
 
 ```ini
 000000007c963d08bcffe946 = Bar/P2G.png
-
-
+```
 
